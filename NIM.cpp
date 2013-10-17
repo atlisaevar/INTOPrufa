@@ -54,7 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );	
-	cout << "Atli"
+	cout << "Atli" << endl;
 	return 0;
 }
 
