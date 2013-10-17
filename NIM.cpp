@@ -56,8 +56,8 @@ int main( )
 	while ( val != 3 );	
 	cout << "Atli" << endl;
 	cout << "Full seint nuordid" << endl;
-	return 0;
-}
+	cout << "O nei hvad hef eg gert" << endl;
+	return;
 
 void spila( )
 {
@@ -68,6 +68,7 @@ void spila( )
 	cout << endl << endl;
 	cout << "Veljum med hve margar hrugur vid spilum. " << endl;
 	cout << "Yttu a einhvern lykil: " << endl;
+:x
 
 	srand( time( 0 ) );	
 
