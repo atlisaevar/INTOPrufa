@@ -55,12 +55,13 @@ int main( )
 	}
 	while ( val != 3 );	
 	cout << "Atli" << endl;
+	cout << "Full seint nuordid" << endl;
 	return 0;
 }
 
 void spila( )
 {
-	int hruga[ 10 ];
+	int hrua[ 10 ];
 	cout << "*-------------------------------------------------------*" << endl;
 	cout << "                   NU SPILUM VID NIM!!" << endl;
 	cout << "*-------------------------------------------------------*" << endl;
