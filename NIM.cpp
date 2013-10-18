@@ -56,9 +56,9 @@ int main( )
 	while ( val != 3 );	
 	cout << "Atli" << endl;
 	cout << "Full seint nuordid" << endl;
-	cout << "O nei hvad hef eg gert" << endl;
-	return;
-
+	cout << "eg kann pinu a vim jibbiiiiiiiii!!" << endl;
+	return 0;
+}
 void spila( )
 {
 	int hrua[ 10 ];
